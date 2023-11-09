@@ -3,7 +3,9 @@
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <!--  -->A
-![GitHub followers](https://img.shields.io/github/followers/Halawany1?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Halawany1?style=social) <img src="https://komarev.com/ghpvc/?username=Halawany1" alt="Halawany1" />
+![GitHub followers](https://img.shields.io/github/followers/Halawany1?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Halawany1?style=social)  <img src="https://komarev.com/ghpvc/?username=Halawany1" alt="Halawany1" />
+
+[![Linkedin:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-elhalawany-329314220/)](https://www.linkedin.com/in/mohamed-elhalawany-329314220/)  [![Facebook:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/profile.php?id=100080738173740)](https://www.facebook.com/profile.php?id=100080738173740)  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -20,17 +22,14 @@
 
 <br>
 
-- 🌱 I’m currently Working on Mobile App (Flutter)
-
+- 🔭 I’m currently working on Flutter ANDROID, IOS
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning advanced topic in Software and FLutter
-  
-- 💬 Ask me about **Software Engineer & FLutter**
-
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about Flutter, Dart, Firebase, C++, Python.
 - 📫 How to reach me **mohamedelhalawany120@gmail.com**
-
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tYj-n1uipTr8K5621QibAcRgU4LfzTlq/view?usp=drive_link" target="blank">Resume</a>
+- ⚡ Fun fact Great things never came from comfort zones. Love Travelling
 
 <br><br>
 
@@ -87,11 +86,15 @@
 
 <div align="center">
 <h1 align="left">GitHub Stats! 📊</h1>
-<a href="https://github.com/Halawany1/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Halawany1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Halawany1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Halawany1"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Halawany1" alt="Halawany1">
+	<img src='https://github-readme-stats.vercel.app/api?username=halawany1&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=halawany1&theme=tokyonight&hide_langs_below=4' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=halawany1&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=halawany1&theme=dark)
+
+
+
 
 </a>
 </div>
