@@ -7,7 +7,7 @@
 
 [![Linkedin:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-elhalawany-329314220/)](https://www.linkedin.com/in/mohamed-elhalawany-329314220/)  [![Facebook:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/profile.php?id=100080738173740)](https://www.facebook.com/profile.php?id=100080738173740)  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Engineer,;FLutter+Devleoper,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
