@@ -93,6 +93,69 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halawany1&theme=dark)
 
 
+<h2> Samples from my projects </h2>
+
+### منصة الانصاري التعليمية
+
+A free educational platform affiliated with the Sheikh Abdullah Al-Ansari Complex in Qatar” is an educational website or application that provides a comprehensive set of educational and cognitive resources in the field of Quranic and Islamic sciences. This platform aims to provide learning and education opportunities for free and available to everyone. Its services include:
+Lectures: 
+- The platform offers a set of simplified and detailed lectures on multiple topics in the Qur’anic and Islamic sciences. Users can listen to these lectures and benefit from the explanations and guidance provided.
+- Educational courses: The platform provides specialized educational courses covering a variety of religious and Quranic topics. Learners can sign up for and complete these courses online.
+- Free books: The platform provides a digital library containing a collection of free religious books and resources. Users can download these books and benefit from them in their research and studies.
+
+This platform aims to promote education and correct understanding of Quranic and Islamic sciences, and provide reliable and free sources to the public. Thanks to these services, individuals can access knowledge and deepen their understanding of Islamic religion and culture easily and conveniently.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.alrighttech.acqs" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/منصة-الانصاري-التعليمية/id6471402218" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Couponesta
+
+Couponesta is your ultimate source for discount coupons and exclusive offers, all available at no cost. Designed to simplify your shopping journey, Couponesta provides access to the latest deals from a wide variety of stores worldwide.
+
+- 100% Free Access: Enjoy an extensive range of discount coupons without any charges.
+- Top Offers: Get the strongest, most recent discount codes to maximize your savings.
+- Easy-to-Use Interface: Navigate through a seamless and straightforward shopping experience.
+- Frequent Updates: Stay updated with new coupons added regularly, so you never miss a deal.
+- Global Coverage: Access discounts for both Arab and international stores.
+- Diverse Store Selection: Discover offers from over 100 stores, continuously updated for the best selection.
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.couponesta&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/couponesta/id6608961157" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Slash Hub
+
+Slash Hub is your go-to destination for exploring and supporting Egypt’s most exceptional local brands. From fashion and beauty to handcrafted goods and home decor, Slash Hub connects you with premium products that celebrate Egyptian craftsmanship and creativity. With easy navigation, exclusive deals, and a curated selection, Slash Hub makes it simple to shop with pride and purpose.
+
+
+- Local Brands Galore: Access an extensive range of Egypt’s best local brands, featuring categories like fashion, beauty, and handmade crafts.
+- Curated Selection: Only the highest-quality products are showcased, ensuring an elevated shopping experience with items that stand out.
+- Effortless Shopping: Enjoy a seamless shopping journey with intuitive navigation and secure checkout for a hassle-free experience.
+- Exclusive Deals: Unlock unique discounts and promotions from top local brands, maximizing your savings.
+- Easy Returns: If a product doesn’t meet your expectations, we offer a simple return process for your peace of mind.
+- Support Local: Every purchase directly supports local businesses, contributing to the growth of Egypt’s economy and celebrating local talent.
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.slashOrg.slash&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/slash-hub/id6463633495" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Mham
+
+Mham is an auto parts e-commerace app
+
+
+Mham is an auto parts e-commerce app, it is designed to streamline the process of finding and purchasing automotive parts and accessories. Users can search for specific parts using filters such as make, model, year, and part type. The app provides detailed product descriptions, compatibility information, and high-resolution images to help users make informed decisions. Customer reviews and ratings offer additional insights into product quality and performance.
+
+
+The app supports various payment methods, including credit/debit cards, digital wallets, and sometimes financing options. It also offers shipping and delivery tracking, ensuring a smooth and transparent purchasing experience.
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.mahham.app&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/mham/id6529560427" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 
 </a>
