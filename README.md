@@ -95,6 +95,25 @@
 
 <h2> Samples from my projects </h2>
 
+
+### YellowZed
+
+YellowZed is a user-friendly e-commerce platform designed to make shopping a breeze. With its simple and elegant interface, YellowZed allows you to effortlessly browse and purchase a wide variety of products, including gold, gifts, and much more. Whether you’re looking for premium items or unique finds, YellowZed offers a seamless and enjoyable shopping experience tailored just for you. 
+Key Features:
+- Diverse Categories: Explore an extensive range of products across categories like gold, gifts, and more, catering to all your needs and occasions.
+- Simplified Shopping: Navigate through the app with ease, enjoy a clean interface, and complete your purchases with a secure and hassle-free checkout process.
+- Curated Selection: Browse a handpicked collection of high-quality products, ensuring that every item meets your expectations.
+- Exclusive Offers: Discover special discounts and deals to make your shopping experience even more rewarding.
+- Adaptive Design: Enjoy a responsive design that provides an optimal browsing experience on all devices.
+- Fast and Reliable: Experience smooth app performance and quick load times for uninterrupted shopping.
+
+This platform aims to promote education and correct understanding of Quranic and Islamic sciences, and provide reliable and free sources to the public. Thanks to these services, individuals can access knowledge and deepen their understanding of Islamic religion and culture easily and conveniently.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.yellowZed.app&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+
+<hr>
+
+
 ### منصة الانصاري التعليمية
 
 A free educational platform affiliated with the Sheikh Abdullah Al-Ansari Complex in Qatar” is an educational website or application that provides a comprehensive set of educational and cognitive resources in the field of Quranic and Islamic sciences. This platform aims to provide learning and education opportunities for free and available to everyone. Its services include:
