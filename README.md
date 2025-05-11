@@ -25,7 +25,6 @@
 - 🔭 I’m currently working on Flutter ANDROID, IOS
 - 🤝 I’m available for freelancing.
 - 🔭 I’m currently working on improving my skills as a software engineer.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about Flutter, Dart, Firebase, C++, Python.
 - 📫 How to reach me **mohamedelhalawany120@gmail.com**
 - ⚡ Fun fact Great things never came from comfort zones. Love Travelling
