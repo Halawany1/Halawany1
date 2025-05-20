@@ -22,7 +22,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Flutter ANDROID, IOS
+- 🔭 I’m currently working on Flutter
 - 🤝 I’m available for freelancing.
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 💬 Ask me about Flutter, Dart, Firebase, C++, Python.
