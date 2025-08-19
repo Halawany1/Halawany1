@@ -1,13 +1,28 @@
 
-<h1 align="center"><b>Hi , I'm Mohamed ELhalawany </b> <a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center"><b>Hi, I'm Mohamed ELhalawany</b> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-<!--  -->A
-![GitHub followers](https://img.shields.io/github/followers/Halawany1?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Halawany1?style=social)  <img src="https://komarev.com/ghpvc/?username=Halawany1" alt="Halawany1" />
-
-[![Linkedin:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-elhalawany-329314220/)](https://www.linkedin.com/in/mohamed-elhalawany-329314220/)  [![Facebook:Rabee Omran](https://img.shields.io/badge/MohamedElhalawany-blue?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/profile.php?id=100080738173740)](https://www.facebook.com/profile.php?id=100080738173740)  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Engineer,;FLutter+Devleoper,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <strong>Senior Flutter Developer • 3+ Years Experience • Competitive Programmer </strong>
+</p>
+
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/Halawany1?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/Halawany1?style=social)  
+<img src="https://komarev.com/ghpvc/?username=Halawany1" alt="Profile Views" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Elhalawany-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elhalawany-329314220/)
+[![Facebook](https://img.shields.io/badge/Facebook-Mohamed%20Elhalawany-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080738173740)
+[![Codeforces](https://img.shields.io/badge/Codeforces-SO__NIK-red?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SO_NIK)
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..♥;Senior+Flutter+Developer+with+3%2B+Years;Competitive+Programming+Enthusiast;Native+%26+KMP+Explorer;Building+Scalable+Mobile+Solutions">
+  </a>
 </p>
 
 
@@ -16,46 +31,75 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
+### 🚀 **Professional Journey**
+- **Senior Flutter Developer** with **3+ years** of hands-on experience building scalable mobile applications
+- Successfully delivered **10+ production apps** with millions of downloads across Google Play Store and App Store
+- Specialized in **cross-platform development**, **state management**, and **clean architecture patterns**
+- Currently expanding expertise in **Native Android/iOS development** and **Kotlin Multiplatform (KMP)**
 
+### 🏆 **Competitive Programming Excellence**
+- **3x ECPC (Egyptian Collegiate Programming Contest)** participant
+- Active problem solver on **Codeforces & leetCode** with consistent practice and improvement
+- Strong foundation in **algorithms**, **data structures**, and **mathematical problem-solving**
+- Passionate about **competitive programming** as a tool for continuous learning
 
-<br>
+### 🎯 **Current Focus**
+- 🔭 **Mastering Native Development**: Diving deep into Android (Kotlin/Java) and iOS (Swift) development
+- 🌟 **Exploring KMP**: Learning Kotlin Multiplatform to build truly native cross-platform solutions
+- 🚀 **Scaling Flutter Expertise**: Advanced state management, performance optimization, and custom widgets
+- 🤝 **Open for Freelancing**: Available for challenging Flutter and mobile development projects
 
-- 🔭 I’m currently working on Flutter
-- 🤝 I’m available for freelancing.
-- 🔭 I’m currently working on improving my skills as a software engineer.
-- 💬 Ask me about Flutter, Dart, Firebase, C++, Python.
-- 📫 How to reach me **mohamedelhalawany120@gmail.com**
-- ⚡ Fun fact Great things never came from comfort zones. Love Travelling
+### 💡 **Technical Expertise**
+- 💬 **Ask me about**: Flutter, Dart, Firebase, State Management (Bloc, Provider, Riverpod), Clean Architecture
+- 🔧 **Also proficient in**: C++, Python, Problem Solving, Algorithm Design
+- 📫 **Contact**: **mohamedelhalawany120@gmail.com**
+- ⚡ **Philosophy**: "Great things never came from comfort zones" - Always pushing boundaries through continuous learning
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
+## 🛠️ **Tech Stack & Skills**
+
+### **Mobile Development** 📱
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" title="Flutter - Expert (3+ Years)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" title="Dart - Expert">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" width="50" title="Android - Learning">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" width="50" title="Kotlin - Learning">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" width="50" title="Swift - Learning">
 </div>
+
+### **Backend & Database** 🗄️
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" title="Firebase">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" title="FastAPI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" width="50" title="SQLite">
+</div>
+
+### **Programming Languages** 💻
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" title="C++ - Competitive Programming">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" title="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" title="C">
+</div>
+
+### **Development Tools** 🔧
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" width="50" title="Android Studio">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" title="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" title="GitHub">
+</div>
+
+### **Currently Learning** 🌱
+- **Native Android Development** (Kotlin/Java)
+- **iOS Development** (Swift)
+- **Kotlin Multiplatform (KMP)**
+- **Advanced Flutter Architecture Patterns**
 
 <br>
 <h3 align="left">Connect with me 🤝</h3>
@@ -73,10 +117,7 @@
         <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
     <a href="https://www.facebook.com/profile.php?id=100080738173740">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed ELhalawany" width="40" height="30">
-</a>
-<a href="https://codeforces.com/profile/SO_NIK">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" width="40" height="30">
-</a>
+
 </div>
 </p>
 
@@ -85,12 +126,36 @@
 <div align="center">
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=halawany1&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 **GitHub Statistics & Achievements**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=halawany1&theme=dark)
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=halawany1&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halawany1&theme=dark&hide_border=true)
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=halawany1&show_icons=true&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halawany1&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+## 🏆 **Competitive Programming Journey**
+
+<div align="center">
+
+### **ECPC Achievements** 🎯
+- **3x Participant** in Egyptian Collegiate Programming Contest
+- Consistent problem-solving practice on **Codeforces**
+- Strong algorithmic thinking and mathematical problem-solving skills
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SO_NIK&theme=dark&force_username=true&border_color=404040)](https://codeforces.com/profile/SO_NIK)
+
+</div>
 
 
-<h2> Samples from my projects </h2>
+## 🚀 **Featured Projects Portfolio**
+
+> **6+ Production Apps** • **Millions of Downloads** • **Cross-Platform Excellence**
 
 ### ألمعي - اختبر معرفتك بالإسلام
 
@@ -204,8 +269,32 @@ The app supports various payment methods, including credit/debit cards, digital 
 
 <br>
 
-## Open For Oppurtunities :purple_heart: !
+## 💼 **Open for Opportunities** 
 
-Credits: [Mohamed Elhalawany](https://github.com/Halawany1)
+<div align="center">
 
-Last Edited on: 14/10/2023
+### **Available for Freelance Projects** 🚀
+- **Flutter Mobile App Development**
+- **Cross-Platform Solutions**
+- **Native Android/iOS Development** (Learning & Accepting Projects)
+- **Technical Consulting & Code Reviews**
+
+### **Let's Connect & Build Something Amazing!** 🤝
+
+[![Email](https://img.shields.io/badge/Email-mohamedelhalawany120%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelhalawany120@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elhalawany-329314220/)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tYj-n1uipTr8K5621QibAcRgU4LfzTlq/view?usp=drive_link)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Great things never came from comfort zones"** ✨
+
+*Building the future, one app at a time* 📱
+
+**Credits**: [Mohamed Elhalawany](https://github.com/Halawany1) | **Last Updated**: January 2025
+
+</div>
