@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Senior Flutter Developer • 3+ Years Experience • Competitive Programmer </strong>
+  <strong>Software Engineer • 3+ Years Experience • Competitive Programmer </strong>
 </p>
 
 <div align="center">
