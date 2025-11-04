@@ -34,8 +34,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 ### 🚀 **Professional Journey**
-- **Mobile Developer** with **3+ years** of hands-on experience building scalable mobile applications
-- Successfully delivered **10+ production apps** with millions of downloads across Google Play Store and App Store
+- **Mobile Developer** with **4 years** of hands-on experience building scalable mobile applications
+- Successfully delivered **12+ production apps** with millions of downloads across Google Play Store and App Store
 - Specialized in **cross-platform development**, **state management**, and **clean architecture patterns**
 - Currently expanding expertise in **Native Android/iOS development** and **Kotlin Multiplatform (KMP)**
 
