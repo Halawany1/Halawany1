@@ -35,7 +35,7 @@
 
 ### 🚀 **Professional Journey**
 - **Mobile Developer** with **4 years** of hands-on experience building scalable mobile applications
-- Successfully delivered **12+ production apps** with millions of downloads across Google Play Store and App Store
+- Successfully delivered **18+ production apps** with millions of downloads across Google Play Store and App Store
 - Specialized in **cross-platform development**, **state management**, and **clean architecture patterns**
 - Currently expanding expertise in **Native Android/iOS development** and **Kotlin Multiplatform (KMP)**
 
