@@ -1,17 +1,13 @@
-<h1 align="center">Mohamed Elhalawany</h1>
+<h1 align="center">Hi, I'm Mohamed 👋</h1>
 
 <p align="center">
-  <strong>Senior Flutter Developer &nbsp;·&nbsp; 4 Years Experience &nbsp;·&nbsp; Competitive Programmer</strong>
-</p>
-
-<p align="center">
-  Building scalable, cross-platform mobile applications with millions of downloads.<br>
-  Passionate about clean architecture, state management, and pushing the boundaries of what mobile can do.
+  <strong>Senior Flutter Developer · Cairo, Egypt 🇪🇬</strong><br>
+  I turn coffee into cross-platform apps. Occasionally the apps turn back into coffee (we call that "a hotfix").
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elhalawany-329314220/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Elhalawany-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Halawany1">
     <img src="https://img.shields.io/badge/GitHub-Halawany1-181717?style=flat-square&logo=github&logoColor=white" />
@@ -19,133 +15,73 @@
   <a href="https://codeforces.com/profile/SO_NIK">
     <img src="https://img.shields.io/badge/Codeforces-SO__NIK-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://mohamed-elhalawany-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-visit-FF6F61?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
   <a href="mailto:mohamedelhalawany120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohamedelhalawany120%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1tYj-n1uipTr8K5621QibAcRgU4LfzTlq/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-the%20boring%20PDF-34A853?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## At a Glance
+## whoami
 
-| 15+ | 4 Years | 3× |
-|:---:|:---:|:---:|
-| Production apps shipped | Hands-on experience | ECPC participant |
+```dart
+final mohamed = Developer(
+  role: 'Senior Mobile Engineer',
+  fuel: 'caffeine ☕ + competitive programming 🧠',
+  experience: '4+ years shipping things people actually use',
+  apps: '20+ products · 500K+ humans served',
+  currentlyLearning: ['Node.js', 'Kotlin Multiplatform'],
+  fears: ['iOS provisioning profiles', 'null'],
+);
+```
 
----
-
-## About Me
-
-- **Mobile Developer** with 4 years of experience building and shipping production-grade mobile applications across Google Play and the App Store.
-- Successfully delivered **15+ production apps** with millions of combined downloads.
-- Specialized in **cross-platform development**, **state management**, and **clean architecture patterns**.
-- **3× ECPC (Egyptian Collegiate Programming Contest)** participant with a strong background in algorithms and data structures.
-- Currently expanding into **Native Android/iOS development** and **Kotlin Multiplatform (KMP)**.
-- Open to **freelance projects** in Flutter and mobile development.
-
-> *"Great things never came from comfort zones"* — always pushing the boundary, one app at a time.
-
----
-
-## Tech Stack
-
-### Mobile Development
-| Skill | Level |
-|---|---|
-| Flutter | Expert |
-| Dart | Expert |
-| State Management — Bloc, Provider, Riverpod | Expert |
-| Clean Architecture / MVVM | Proficient |
-| Android (Kotlin) | Learning |
-| iOS (Swift) | Learning |
-| Kotlin Multiplatform (KMP) | Learning |
-
-### Backend & Databases
-`Firebase` &nbsp; `FastAPI` &nbsp; `SQLite` &nbsp; `REST APIs`
-
-### Languages
-`Dart` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `C` &nbsp; `Kotlin *(learning)*` &nbsp; `Swift *(learning)*`
-
-### Tools & Architecture
-`Git` &nbsp; `GitHub` &nbsp; `Android Studio` &nbsp; `VS Code` &nbsp; `Clean Architecture` &nbsp; `MVVM`
+- 🩺 Currently a **Senior Mobile Developer @ AlmavivA S.p.A.** — building the official health-record app for the **Sardinia Region** (100K+ downloads) and an airport navigation app I took from "cool idea" to "shipped to production" solo.
+- 🚀 Shipped **20+ apps** across mobile, web, and desktop — some solo, all stubborn.
+- 🧠 **ECPC Finalist**, **IEEEXtreme 3rd place in Egypt**, and **Codeforces Specialist** with 1750+ problems solved. Yes, I do the fun kind of math.
+- 🧑‍🏫 Taught Flutter to **800+ students** as GDSC Technical Lead. Some of them now out-code me. Proud dad energy.
+- 🧩 I'm the person who reads "Clean Architecture" and doesn't run away.
 
 ---
 
-## Featured Projects
+## The Stack (a.k.a. things I argue about at 2 AM)
 
-### Almui — Islamic Knowledge Game
-An educational and entertaining Islamic app featuring crossword puzzles, hadith assembly, Spin, and Puzzle games. Designed for all ages to explore Islamic history and the Prophetic Hadith in an engaging, interactive way.
+**Daily drivers**
+`Flutter` `Dart` `BLoC / Cubit` `Clean Architecture` `Firebase`
 
-`Flutter` `Firebase` `Gamification` `Arabic/English` `iOS + Android`
+**Also fluent in**
+`Kotlin` `Native Android (Jetpack Compose)` `Java` `C++` `Python` · `Riverpod` `Provider` `GetX` · `REST` `GraphQL` `WebSockets`
 
-<a href="https://play.google.com/store/apps/details?id=com.game.alansari"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/gb/app/id6739430941"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+**Currently leveling up** 🎮
+`Node.js` `Kotlin Multiplatform`
 
----
-
-### YellowZed — E-Commerce Platform
-A streamlined e-commerce app for browsing and purchasing gold, gifts, and premium products. Features a clean interface, secure checkout, adaptive design, and a curated selection of exclusive offers.
-
-`Flutter` `E-Commerce` `Payment Integration` `Android`
-
-<a href="https://play.google.com/store/apps/details?id=com.yellowZed.app"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+**Keeping the lights on**
+`Azure DevOps` `GitHub Actions` `Codemagic` `Fastlane` `Docker`
 
 ---
 
-### Al-Ansari Educational Platform
-A free educational platform affiliated with the Sheikh Abdullah Al-Ansari Complex in Qatar. Offers Islamic lectures, specialized Quranic courses, and a digital library of religious books — completely free and accessible to all.
+## Stuff I built that actually made it to the store
 
-`Flutter` `EdTech` `Video Streaming` `iOS + Android`
+| App | What it does | Where |
+|---|---|---|
+| **Almaei** 🕌 | Gamified Islamic learning — 200K+ downloads, 4.7⭐, 8 real-time multiplayer modes | [Play](https://play.google.com/store/apps/details?id=com.game.alansari) · [App Store](https://apps.apple.com/us/app/id6739430941) |
+| **Alpha Drive** 🚕 | Ride-hailing with real-time fare negotiation & live tracking — 10K+ downloads | [Play](https://play.google.com/store/apps/details?id=com.alpha.drive) · [App Store](https://apps.apple.com/us/app/alpha-drive-customer/id6739975764) |
+| **Wasel** 📦 | Dual-app shipping platform — customer + driver, OTP delivery, bilingual (AR/EN) | [Customer](https://play.google.com/store/apps/details?id=com.trendlixeldhourbagy.wasel) · [Driver](https://play.google.com/store/apps/details?id=com.trendlix.waselDriverApp) |
+| **Beanly Trading** ☕ | Coffee e-commerce built from scratch with Clean Architecture & BLoC | [Play](https://play.google.com/store/apps/details?id=com.coffee.beans) · [App Store](https://apps.apple.com/us/app/beanly-trading/id6752859125) |
+| **Khatm** 📖 | Collaborative Quran completion tracker with real-time Firebase sync | [Play](https://play.google.com/store/apps/details?id=com.fwrd.khatm) · [App Store](https://apps.apple.com/us/app/id6744386814) |
+| **Kotobekia** 📚 | Egypt's largest book buy/sell marketplace with buyer–seller chat | [Play](https://play.google.com/store/apps/details?id=com.kotobekia.app) · [App Store](https://apps.apple.com/us/app/kotobekia/id6777449096) |
+| **Slash Hub** 🛍️ | Marketplace for Egypt's coolest local brands | [Play](https://play.google.com/store/apps/details?id=com.slashOrg.slash) |
 
-<a href="https://play.google.com/store/apps/details?id=com.alrighttech.acqs"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/id6471402218"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
-
----
-
-### Couponesta — Discount Coupons
-A 100% free coupon aggregator offering the latest discount codes from 100+ Arab and international stores. Frequently updated with new deals, providing a seamless savings experience for every shopper.
-
-`Flutter` `Deals & Coupons` `Global Coverage` `iOS + Android`
-
-<a href="https://play.google.com/store/apps/details?id=com.couponesta"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/couponesta/id6608961157"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+> ...plus **Leango WMS** (warehouse management — [Play](https://play.google.com/store/apps/details?id=com.grwan.leango_wms) · [App Store](https://apps.apple.com/us/app/leango-wms/id6744946637) · [Web](https://wms.leango.app/)) and **Mham** auto-parts marketplace ([App Store](https://apps.apple.com/kw/app/mham/id6740070695) · [Web](https://mhamcp.com/)) from the day job.
 
 ---
 
-### Slash Hub — Egyptian Local Brands Marketplace
-A curated marketplace celebrating Egypt's best local brands across fashion, beauty, and handmade crafts. Exclusive deals, easy returns, and a seamless checkout — supporting local businesses one purchase at a time.
-
-`Flutter` `Marketplace` `Egypt` `iOS + Android`
-
-<a href="https://play.google.com/store/apps/details?id=com.slashOrg.slash"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/eg/app/slash-hub/id6463633495"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
-
----
-
-### Mham — Auto Parts E-Commerce
-An automotive parts marketplace with smart filters by make, model, year, and part type. Features detailed specs, high-resolution images, customer reviews, multiple payment options, and real-time shipping tracking.
-
-`Flutter` `Automotive` `E-Commerce` `iOS + Android`
-
-<a href="https://play.google.com/store/apps/details?id=com.mahham.app"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/eg/app/mham/id6529560427"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
-
----
-
-## Competitive Programming
-
-- **3× ECPC** — Egyptian Collegiate Programming Contest participant
-- Active on **Codeforces** (`SO_NIK`) and **LeetCode** with consistent practice
-- Strong foundation in algorithms, data structures, and mathematical problem-solving
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SO_NIK&theme=dark&force_username=true&border_color=404040)](https://codeforces.com/profile/SO_NIK)
-
----
-
-## GitHub Statistics
+## 📊 GitHub, being honest about my commit habits
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=halawany1&show_icons=true&theme=dark&hide_border=true" />
@@ -158,24 +94,18 @@ An automotive parts marketplace with smart filters by make, model, year, and par
 
 ---
 
-## Open for Opportunities
+## 🤝 Currently accepting
 
-Available for:
-- Flutter mobile app development
-- Cross-platform mobile solutions
-- Native Android / iOS projects
-- Technical consulting and code reviews
-
-**Let's build something great together.**
-
-<p>
-  <a href="mailto:mohamedelhalawany120@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedelhalawany120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-elhalawany-329314220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1tYj-n1uipTr8K5621QibAcRgU4LfzTlq/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-</p>
-
----
+- Flutter / cross-platform app builds
+- Native Android or KMP adventures
+- Code reviews (I'm nice about it, mostly)
+- A really good cup of coffee ☕
 
 <p align="center">
-  <sub>Last updated · April 2026 &nbsp;·&nbsp; <a href="https://github.com/Halawany1">github.com/Halawany1</a></sub>
+  <em>Great things never came from comfort zones — so let's build something slightly terrifying and very good.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:mohamedelhalawany120@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elhalawany-329314220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
